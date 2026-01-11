@@ -36,11 +36,7 @@ keywords = [
 
 "bedtime stories","kids animation","ai animation for kids","kids cartoons", 
 
-"kids videos","cartoon stories for kids","fairy tales", 
-
-"moral stories","cat life","youtube kids", 
-
-"kids entertainment","funny cartoon","storytime"
+"kids videos","cartoon stories for kids","fairy tales"
 
 ]
 
