@@ -30,17 +30,17 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 keywords = [
 
- "cat", "cat story", "ai cat story", "cute kitten", 
+ "cat", "cat story", "ai cat story","cute kitten", 
 
-"viral cats", "animal friendship", "cat family", "kids cartoon", "animated stories", 
+"viral cats","animal friendship","cat family","kids cartoon","animated stories", 
 
-"bedtime stories", "kids animation", "ai animation for kids", "kids cartoons", 
+"bedtime stories","kids animation","ai animation for kids","kids cartoons", 
 
-"kids videos", "cartoon stories for kids", "fairy tales", 
+"kids videos","cartoon stories for kids","fairy tales", 
 
-"moral stories", "cat life", "youtube kids", 
+"moral stories","cat life","youtube kids", 
 
-"kids entertainment", "funny cartoon", "storytime"
+"kids entertainment","funny cartoon","storytime"
 
 ]
 
