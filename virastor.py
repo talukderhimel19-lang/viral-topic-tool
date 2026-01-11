@@ -61,7 +61,7 @@ keywords = [
 
 if st.button("Fetch Data"):
 
-    try:
+try:
 
         # Calculate date range
 
